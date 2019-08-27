@@ -1,7 +1,7 @@
 # Change Log
 
 ## [v1.0.0](https://github.com/alvaroFSL/changelog/tree/v1.0.0) (2019-08-27)
-[&#128030; Closed issues]
+**&#128030; Closed issues**
 
 - change the title of the project [\#2](https://github.com/alvaroFSL/changelog/issues/2)
 - test [\#3](https://github.com/alvaroFSL/changelog/issues/3)
