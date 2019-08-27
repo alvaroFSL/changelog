@@ -1,15 +1,15 @@
 # Change Log
 
-## [Unreleased](https://github.com/alvaroFSL/changelog/tree/HEAD)
-
+## [v1.0.0](https://github.com/alvaroFSL/changelog/tree/v1.0.0) (2019-08-27)
 **Closed issues:**
 
-- test [\#3](https://github.com/alvaroFSL/changelog/issues/3)
 - change the title of the project [\#2](https://github.com/alvaroFSL/changelog/issues/2)
+- test [\#3](https://github.com/alvaroFSL/changelog/issues/3)
 
 **Merged pull requests:**
 
 - added some changes to test [\#1](https://github.com/alvaroFSL/changelog/pull/1) ([alvaroFSL](https://github.com/alvaroFSL))
+- Chlog test [\#4](https://github.com/alvaroFSL/changelog/pull/4) ([alvaroFSL](https://github.com/alvaroFSL))
 
 
 
